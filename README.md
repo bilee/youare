@@ -1,7 +1,7 @@
 # youare
 text based project incorporating multimedia elements 
 
-current elements are web page--  http://wiredhill.com/youare.htm
+part 1 is web page--  http://wiredhill.com/youare.htm
 
 I want to re-create it using Processing programming language (https://processing.org/), https://en.wikipedia.org/wiki/Processing_(programming_language)
 
