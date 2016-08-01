@@ -1,6 +1,8 @@
 # youare
 text based project incorporating multimedia elements 
+
 current elements are web page--  http://wiredhill.com/youare.htm
+
 I want to re-create it using Processing programming language (https://processing.org/), https://en.wikipedia.org/wiki/Processing_(programming_language)
 
 Also want to include audio elements (each line read by different person), use vocoder or synthesized voice, text-to-speech...
