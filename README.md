@@ -12,3 +12,5 @@ Create video and music incorporating theses elements;
 create an art installation to showcase the project;
 
 Add more phrases so the viewer cannot tell when it loops
+
+create raspberry pi magic mirror- https://www.raspberrypi.org/magpi/issues/40/
